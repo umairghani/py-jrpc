@@ -1,31 +1,14 @@
 * Fri Aug 07 2015 Umair Ghani <umairghani@gmail.com
-- Version 3.2 Patch 2
+- Version 2.1 Patch 1
 _ Added method to return the signature of a function
 
 * Mon May 11 2015 Umair Ghani <umairghani@gmail.com>
-- Version 3.1 Patch 2
+- Version 2.1 Patch 0
 - Added RSA handshake function
-
-* Thu May 07 2015 Umair Ghani <umairghani@gmail.com>
-- Version 3.0 Patch 0
-- Added Client cli tool
-- Changed umaird to umaird-server
-
-* Mon May 04 2015 Umair Ghani <umairghani@gmail.com>
-- Version 2.1 Patch 2
-- changed netstat print format
-
-* Wed Apr 29 2015 Umair Ghani <umairghani@gmail.com>
-- Version 2.1 Patch 1
-- Added netstat support
 
 * Thu Apr 09 2015 Umair Ghani <umairghani@gmail.com>
 - Version 2.0 Patch 0
 - Adding HTTPS support
-
-* Sun Mar 15 2015 Umair Ghani <umairghani@gmail.com>
-- Version 1.0 Patch 1
-- Added alot of system functions
 
 * Fri Mar 13 2015 Umair Ghani <umairghani@gmail.com>
 - Version 1.0 Patch 0

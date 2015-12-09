@@ -12,3 +12,4 @@ Help you connect to the Server and invoke functions on the server side.
 ## Dependencies:
 * python
 * python-psutil
+* python-crypto
