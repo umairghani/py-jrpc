@@ -1,7 +1,7 @@
 # Python Json RPC Server & Client
 
 * Author: Umair Ghani
-* Email: umair.ghani@orbitz.com
+* Email: umairghani@gmail.com
 
 ## Description:
 
