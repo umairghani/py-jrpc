@@ -1,6 +1,7 @@
 # Python Json RPC Server & Client
 * Author: Umair Ghani
-* Email: umairghani@gmail.com
+
+py-jrpc is a remote procedure call protocol encoded in JSON. It is a very simple protocol (and very similar to XML-RPC).
 
 ## Description:
 ### Server
@@ -11,5 +12,4 @@ Help you connect to the Server and invoke functions on the server side.
 
 ## Dependencies:
 * python
-* python-psutil
 * python-crypto

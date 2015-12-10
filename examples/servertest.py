@@ -1,4 +1,5 @@
-from jrpcServer.SimpleTCPServer import SimpleTCPServer
+#!/usr/bin/env python
+from jrpc import SimpleTCPServer as Server
 
 def ping():
   return "pong"

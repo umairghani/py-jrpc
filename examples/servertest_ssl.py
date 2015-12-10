@@ -1,6 +1,6 @@
 import ssl
 
-from jrpcServer.SimpleTCPServer import SimpleTCPServer
+from jrpc import SimpleTCPServer as Server
 
 def ping():
   return "pong"

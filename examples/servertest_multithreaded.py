@@ -1,4 +1,4 @@
-from jrpcServer.SimpleTCPServer import SimpleTCPServer
+from jrpc import SimpleTCPServer
 from SocketServer import ThreadingMixIn
 
 class Server(ThreadingMixIn,SimpleTCPServer):

@@ -1,4 +1,4 @@
-from jrpcClient.SimpleTCPClient import SimpleTCPClient
+from jrpc import SimpleTCPClient
 
 conn = SimpleTCPClient("localhost", 9999)
 print conn.ping()
