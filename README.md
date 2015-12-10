@@ -11,7 +11,7 @@ LightWeight HTTP/HTTPS server with a REST API.
 Help you connect to the Server and invoke functions on the server side.
 
 ## Dependencies:
-* python
+* python2 (not tested on python3)
 * python-crypto
 * python-psutil (optional)
 
