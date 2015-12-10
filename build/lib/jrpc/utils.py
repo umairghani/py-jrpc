@@ -1,3 +1,6 @@
+import os
+import sys
+
 from Crypto.PublicKey import RSA
 
 __author__ = 'umairghani'

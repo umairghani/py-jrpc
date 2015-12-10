@@ -7,6 +7,8 @@ __author__ = 'umairghani'
 
 class Logger:
     def __init__(self, dir, name):
+        if not os.path.isdir(dir):
+            os.mkdir(dir)
         self.logfile = os.path.join(dir, name)
         self.name = name
         self.logger = None
