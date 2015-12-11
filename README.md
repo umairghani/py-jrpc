@@ -15,6 +15,14 @@ Help you connect to the Server and invoke functions on the server side.
 * python-crypto
 * python-psutil (optional)
 
+## Installation
+
+```
+pip install py-jrpc
+easy_install py-jrpc
+
+```
+
 ## Documentation
 ### Server
 For able to support your own functions/modules, you need to register those methods with the server.
